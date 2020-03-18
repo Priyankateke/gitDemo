@@ -1,0 +1,280 @@
+gitDemo git:(master) ✗ history | grep git
+    4  git commit -m "minor changes"
+    5  git push -u origin master
+    6  git push -u origin devloper
+   28  git init
+   29  git add README.md
+   30  git commit -m "first commit"
+   31  git remote add origin https://github.com/harshalipandurnagbadgujar/ideation_project.git\n
+   32  git push -u origin master
+   33  git remote add origin https://github.com/harshalipandurnagbadgujar/ideation_project.git
+   35  git push -u origin master
+   37  git init
+   38  git add README.md
+   39  git add ..
+   40  git add .
+   41  git push -u origin master
+   42  git remote add origin https://github.com/harshalipandurnagbadgujar/ideation_project.git
+   43  git push -u origin master
+   44  git push -u 
+   45  git add .
+   46  git commit -m "new ideation task"
+   47  git push origin master
+   51  git add .
+   52  git commit -m "new ideation task"
+   53  git push origin master
+   59  git add .
+   60  git commit -m "read w file "
+   61  git push origin master
+   94  git add .
+   95  git commit -m "swagger use"
+   96  git push origin master
+  109  git add .
+  110  git commit -m "reminder api work"
+  111  git push origin master
+  112  git push origin devloper
+  118  git add .
+  119  git commit -m "label add remove from note api done"
+  120  git push origin devloper
+  121  git push origin master
+  128  git add .
+  129  git commit -m "note drag and drop done"
+  130  git push origin master
+  135  git add .
+  136  git commit -m "add label"
+  137  git push -u origin master
+  138  git pull origin master
+  139  git push -u origin master
+  140  git init
+  141  git remote add origin https://github.com/Priyankateke/DemoFolder.git
+  145  git add sampleDemo.sh
+  146  git add sequence/sampleDemo.sh
+  147  git commit -m "Sample Demo Of Folder"
+  148  git push origin master
+  149  git init
+  150  git remote add origin https://github.com/Priyankateke/ShellScript_ProgrammingConstructs.git
+  209  git add ifSelection/validDayOfMonth.sh
+  210  git commit -m "ADDED: Displayed True If Date Is Valid Otherwise Displayed False"
+  211  git push origin master
+  212  git clone https://github.com/Priyankateke/ShellScript_ProgrammingConstructs.git
+  215  git add ifSelection/validDayOfMonth.sh
+  216  git commit -m "ADDED: Displayed True If Date Is Valid Otherwise False"
+  217  git push origin master
+  238  git add ifSelection/leapYear.sh
+  244  git add ifSelection/leapYear.sh
+  245  git commit -m "ADDED: Checked Year is Leap Year Or Not"
+  246  git push origin master
+  251  git log
+  252  git config --global user.name "Priyankateke"
+  253  git config --global user.email "priiyankateke1705@gmail.com"
+  254  git commit --amend --author="Priyankateke <priiyankateke1705@gmail.com>"
+  255  git push origin master
+  257  git status
+  258  git commit --amend --author="Priyankateke <priiyankateke1705@gmail.com>"
+  259  git status
+  266  git config --global user.name "Priyankateke"
+  267  git config --global user.email "priiyankateke1705@gmail.com"
+  268  git add ifSelection/simulateCoinFlip.sh
+  269  git commit -m "ADDED: Displayed Head Or Tail"
+  270  git push origin master
+  271  git pull origin master
+  277  git add ifSelection/simulateCoinFlip.sh
+  278  git config --global user.name "Priyankateke"
+  279  git config --global user.email "priiyankateke1705@gmail.com"
+  280  git commit -m "ADDED: Displayed Head Or Tail"
+  281  git push origin master
+  303  git add if_elseifSelection/numberToWord.sh
+  304  git commit -m "ADDED: Replaced Single Digit Number With Word"
+  305  git push origin master
+  320  git config --global user.email "priiyankateke1705@gmail.com"
+  321  git config --global user.name "Priyankateke"
+  322  git add if_elseifSelection/weekDay.sh
+  323  git commit -m "ADDED: Displayed Week Day According To Number"
+  324  git push origin master
+  328  nano -T 3 digitPlaceOfNumber.sh
+  329  chmod +x digitPlaceOfNumber.sh
+  330  ./digitPlaceOfNumber.sh
+  331  nano -T 3 digitPlaceOfNumber.sh
+  332  ./digitPlaceOfNumber.sh
+  333  nano -T 3 digitPlaceOfNumber.sh
+  334  ./digitPlaceOfNumber.sh
+  335  nano -T 3 digitPlaceOfNumber.sh
+  336  ./digitPlaceOfNumber.sh
+  337  nano -T 3 digitPlaceOfNumber.sh
+  338  ./digitPlaceOfNumber.sh
+  342  nano -T 3 digitPlaceOfNumber.sh
+  344  git add if_elseifSelection/digitPlaceOfNumber.sh
+  345  git commit -m "ADDED: Displayed Digit Place Of Number"
+  346  git push origin master
+  395  git add if_elseifSelection/arithmeticOperation.sh
+  396  git commit -m "ADDED: Calculated Maximum and Minumum Result of Arithmetic Operations"
+  397  git push origin master
+  412  git add caseSelection/numberToWord.sh
+  413  git commit -m "ADDED: Replaced Single Digit Number With Word Using Case"
+  414  git push origin master
+  437  git add caseSelection/weekDay.sh
+  438  git commit -m "ADDED: Displayed Week Day According To Number Using Case"
+  439  git push origin master
+  443  nano -T 3 digitPlaceOfNumber.sh
+  444  chmod +x digitPlaceOfNumber.sh
+  445  ./digitPlaceOfNumber.sh
+  446  nano -T 3 digitPlaceOfNumber.sh
+  447  ./digitPlaceOfNumber.sh
+  448  nano -T 3 digitPlaceOfNumber.sh
+  451  git add caseSelection/digitPlaceOfNumber.sh
+  452  git commit -m "ADDED: Displayed Digit Place Of Number Using Case"
+  453  git push origin master
+  481  git add caseSelection/unitConversionOfLength.sh
+  482  git commit -m "ADDED: Calculated Unit Conversion Of Length Using Case"
+  483  git push origin master
+  506  git add forLoopRepetitions/tableOfPowerOfTwo.sh
+  507  git commit -m "ADDED: Displayed Table Of Power Of Two Using ForLoop"
+  508  git push origin master
+  542  git add forLoopRepetitions/harmonicNumber.sh
+  543  git commit -m "ADDED: Displayed Harmonic Number of Given Number"
+  544  git push origin master
+  558  git add forLoopRepetitions/primeNumber.sh
+  559  git commit -m "ADDED: Checked Given Number Is Prime Or Not"
+  560  git status
+  561  git push origin master
+  584  git add forLoopRepetitions/primeNumberInRange.sh
+  585  git commit -m "ADDED: Displayed Prime Numbers In Given Range"
+  586  git push origin master
+  598  git add forLoopRepetitions/FactorialOfNumber.sh
+  599  git commit -m "ADDED: Calculated Factorials Of Given Number"
+  600  git push origin master
+  626  git add forLoopRepetitions/primeFactors.sh
+  627  git commit -m "ADDED: Computed Prime Factors Of Given Number"
+  628  git push origin master
+  661  git add whileLoopRepetitions/powerOfTwo.sh
+  662  git commit -m "ADDED: Displayed PowerOfTwo That Are LessThan 2^n Till 256 Reached"
+  663  git push origin master
+  680  git add whileLoopRepetitions/magicNumber.sh
+  681  git commit -m "ADDED: Recognized User's Number Using While loop"
+  682  git push origin master
+  696  git add whileLoopRepetitions/flipCoin.sh
+  697  git commit -m "ADDED: Flip Coin Till Heads Or Tails Wins 11 Times"
+  698  git push origin master
+  712  git add whileLoopRepetitions/gambler.sh
+  713  git commit -m "ADDED: Track Number of times Won and Total Bets made"
+  714  git push origin master
+  718  nano -T 3 singleDigitRandomNumber.sh
+  719  chmod +x singleDigitRandomNumber.sh
+  720  ./singleDigitRandomNumber.sh
+  721  nano -T 3 singleDigitRandomNumber.sh
+  722  ./singleDigitRandomNumber.sh
+  723  nano -T 3 singleDigitRandomNumber.sh
+  725  chmod +x singleDigitRandomNumber.sh
+  726  ./singleDigitRandomNumber.sh
+  727  nano -T 3 singleDigitRandomNumber.sh
+  729  git add sequenceStatements/singleDigitRandomNumber.sh
+  730  git commit -m "ADDED: Used Random Function To Get Single Digit Number"
+  731  git push origin master
+  743  git add sequenceStatements/generateDiceNumber.sh
+  744  git commit -m "ADDED: Used Random Function To Get Dice Numbers"
+  745  git push origin master
+  764  git add sequenceStatements/addTwoDiceNumber.sh
+  773  git add sequenceStatements/addTwoDiceNumber.sh
+  774  git commit -m "ADDED: Calculated Addition Of Two Dice Number"
+  775  git push origin master
+  797  git add sequenceStatements/findSumAndAverage.sh
+  798  git commit -m "ADDED: Calculated Sum And Average Of 2 Digit Numbers"
+  799  git push origin master
+  862  git add sequenceStatements/unitConversionOfLength.sh
+  863  git commit -m "ADDED: Unit Conversions of length and Area of plots"
+  864  git push origin master
+  924  git add sequenceStatements/findDayOfGivenDate.sh
+  925  git commit -m "ADDED: Day Recognized for a given Date"
+  926  git push origin master
+  941  git add ifSelection/findMinAndMax.sh
+  942  git commit -m "ADDED: Calculated Min And Max Value Of 5 Random 3 digitNumber"
+  943  git push origin master
+  984  git add functions/temperatureConversion.sh
+  985  git commit -m "ADDED: Temperature Conversion Calculations Have Been Done In The Functions "
+  986  git push origin master
+ 1008  git add functions/checkPalindromes.sh
+ 1009  git commit -m "ADDED: Functionality To Check If Numbers Are Palindromes"
+ 1010  git push origin master
+ 1066  git add functions/checkPrimePalindrome.sh
+ 1067  git commit -m "ADDED: Check If Number Is Prime, Then Check Its Palindrome Also Prime"
+ 1068  git push origin master
+ 1143  git add arrays/findSecondHighLow.sh
+ 1144  git status
+ 1145  git commit -m "ADDED: Functionality To Find SecondLarge And Small Number Without Sort"
+ 1146  git push origin master
+ 1165  git add arrays/findSecondHighLow_usingSort.sh
+ 1166  git commit -m "ADDED: Functionality To Find SecondLarge And Small Number Using Sort"
+ 1167  git push origin master
+ 1193  git add arrays/storePrimeFactorsOfNumber.sh
+ 1194  git commit -m "ADDED: Functionality To Store Prime Factors Of Given Number"
+ 1195  git push origin master
+ 1238  git add arrays/sumOfThreeZero.sh
+ 1239  git commit -m "ADDED: Functionality To Show Sum Of Three Integers Adds To Zero"
+ 1240  git push origin master
+ 1244  nano -T 3 sameDigitsNumber.sh
+ 1245  chmod +x sameDigitsNumber.sh
+ 1246  ./sameDigitsNumber.sh
+ 1247  chmod +x sameDigitsNumber.sh
+ 1248  nano -T 3 sameDigitsNumber.sh
+ 1249  chmod +x sameDigitsNumber.sh
+ 1250  ./sameDigitsNumber.sh
+ 1251  chmod +x sameDigitsNumber.sh
+ 1252  nano -T 3 sameDigitsNumber.sh
+ 1253  ./sameDigitsNumber.sh
+ 1254  nano -T 3 sameDigitsNumber.sh
+ 1255  ./sameDigitsNumber.sh
+ 1256  nano -T 3 sameDigitsNumber.sh
+ 1257  ./sameDigitsNumber.sh
+ 1258  nano -T 3 sameDigitsNumber.sh
+ 1259  ./sameDigitsNumber.sh
+ 1260  bash ./sameDigitsNumber.sh
+ 1261  nano -T 3 sameDigitsNumber.sh
+ 1263  git add arrays/sameDigitsNumber.sh
+ 1264  git commit -m "ADDED: Stored Same Digits Numbers In array"
+ 1265  git push origin master
+ 1345  git add dictionaries/maxMinOccuranceInDieRoll.sh
+ 1346  git commit -m "ADDED: Functionality To Find Maximum And Minimum Times Repeated Number"
+ 1347  git status
+ 1348  git push origin master
+ 1392  git add dictionaries/birthdayOccuranceInMonth.sh
+ 1393  git commit -m "ADDED: Dictionary To Store Occurance Of Birthdays in Same Month"
+ 1394  git push origin master
+ 1402  git add gambler.sh
+ 1403  git commit -m "MODIFIED: If Condition In While Loop"
+ 1404  git push origin master
+ 1441  git add primeNumberInRange.sh
+ 1442  git commit -m "REFACTORED: Removed Unused Declaration"
+ 1443  git push origin master
+ 1455  git log
+ 1456  git rebase -i a9991a61b7a02a033003390011e8c32616b58664
+ 1457  git init
+ 1458  git remote add origin https://github.com/Priyankateke/gitDemo.git
+ 1464  git commit -m "ADDED: Displayed Hello Message"
+ 1465  git add sampleDemo.sh
+ 1466  git push origin master
+ 1467  git add sampleDemo.sh
+ 1468  git commit -m "ADDED: Displayed Hello Message"
+ 1469  git push origin master
+ 1470  git status
+ 1473  git add sampleDemo.sh
+ 1474  git commit -m "MODIFIED: Chaged h to small case"
+ 1475  git push origin master
+ 1477  git pull origin master
+ 1480  git add sampleDemo.sh
+ 1481  git commit -m "MODIFIED: changed hello in small case(Resolve conflict)"
+ 1482  git push origin master
+ 1483  git branch branch1
+ 1484  git checkout branch1
+ 1485  git branch
+ 1486  git checkout master
+ 1487  git pull origin master
+ 1489  git checkout branch1
+ 1493  git add sampleDemo.sh
+ 1494  git commit -m "ADDED: Displayed Hello"
+ 1495  git push origin sampleDemo.sh
+ 1496  git pull origin branch1
+ 1497  git checkout master
+ 1498  git branch
+ 1499  git pull origin master
+➜  gitDemo git:(master) ✗ history |
+
